@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=My Funky App
+Terminal=true
+Exec=/usr/bin/php /home/rob/scripts/myscript.php
+Icon=/usr/share/icons/Humanity/emblems/32/emblem-OK.png
